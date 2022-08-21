@@ -1,0 +1,19 @@
+.calculatorkeys {
+  display: grid;
+  background-color: gray;
+  grid-gap: 1px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.calculator__display {
+  color: lightgoldenrodyellow;
+  background-color: darkslategray;
+  font-size: large;
+  padding: 25px;
+  text-align: right;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
